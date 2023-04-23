@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Ws2Vtf5a228E7kwFXGTP6HxPaqe0BNYFjcGAsVT0QWn6xWabWMrdB6OsdymNVYyJHWfAzMLDVO3DbbPevh29w==",
+  "success": true,
+  "projectFilePath": "E:\\angular-dotnet-devops\\dotnet6-devops\\dotnet6-devops\\dotnet6-devops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abhiraj Gautam Gavai\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Abhiraj Gautam Gavai\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Abhiraj Gautam Gavai\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Abhiraj Gautam Gavai\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Abhiraj Gautam Gavai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Abhiraj Gautam Gavai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

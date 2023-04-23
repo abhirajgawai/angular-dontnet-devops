@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4xWyhXuKLKawICWOZrq6O6Z8MQC2GwIcvWZ6M+Px1yI=",
+  "Source": "dotnet6-devops",
+  "BasePath": "_content/dotnet6-devops",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
